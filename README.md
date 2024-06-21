@@ -2,7 +2,7 @@
 
 👋 Hi, I’m EL Madani Abdelhamid,
 🎓  I'm a engineer student at Mohammed VI international academy of civil aviation(AIAC)
-💼 I'm Interesting in : Cloud computing, IOT, Design.
+💼 I'm Interested into Cloud computing, IOT, and Design .
 
 ### Projects
 - [**Producer-consumer problem**](https://github.com/elmadaniabdelhamid/The-bounded-buffer-problem)
