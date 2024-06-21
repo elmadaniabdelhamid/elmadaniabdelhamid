@@ -14,4 +14,4 @@ Skills
 ### Contact me
 I'm always eager for new opportunities and collaborations. Don't hesitate to get in touch .
 - 📧 Email: abdelhamidelmadani45@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdelhamid-el-madani-5689b5293/)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/abdelhamid-el-madani-5689b5293/)
