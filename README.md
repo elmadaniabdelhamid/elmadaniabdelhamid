@@ -6,7 +6,7 @@
 - Cloud Computing
 - Internet of Things (IoT)
 - Web/Mobile DEV
-- 🎨 I have also some design experience :
+🎨 I have also some design experience :
 - Posters, Cards, and Logos: Skilled in creating eye-catching posters, creative cards, and unique logos
 
 ### Projects
