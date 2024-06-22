@@ -1,8 +1,13 @@
-## HI,
+👋 Hi, I’m EL Madani Abdelhamid!
 
-👋 Hi, I’m EL Madani Abdelhamid,
-🎓  I'm a engineer student at Mohammed VI international academy of civil aviation(AIAC)
-💼 I'm Interested into Cloud computing, IOT, and Design .
+🎓 I'm currently pursuing my engineering degree at Mohammed VI International Academy of Civil Aviation (AIAC), where I focus on cutting-edge technologies and innovative solutions.
+
+💼 I'm deeply passionate about everything related to Information Technology (IT), with particular interests in:
+- Cloud Computing
+- Internet of Things (IoT)
+- Web/Mobile DEV
+- 🎨 I have also some design experience :
+- Posters, Cards, and Logos: Skilled in creating eye-catching posters, creative cards, and unique logos
 
 ### Projects
 - [**Producer-consumer problem**](https://github.com/elmadaniabdelhamid/The-bounded-buffer-problem)
