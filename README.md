@@ -5,9 +5,9 @@ I'm deeply passionate about everything related to Information Technology (IT), w
 - Web/Mobile DEV
 ### Projects
 - [**Producer-consumer problem**](https://github.com/elmadaniabdelhamid/The-bounded-buffer-problem)
-- [**Gestion de couriers**]
-  
-Skills
+- ## development of a website fontend/backend
+(Gestion de couriers) 
+### Skills
 - Programming Languages: [JAVA/JS,C/C++,SQL]
 - Tools & Platforms: [LIntelliJ IDEA, CLion, Git]
 - Frontend : [HTML,CSS,JS]
